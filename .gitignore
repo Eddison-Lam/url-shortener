@@ -1,0 +1,26 @@
+# Build output
+/target/
+/build/
+
+# NetBeans files
+/nbproject/private/
+build.properties
+/dist/
+
+# IDE-specific
+.idea/
+*.iml
+
+# Dependency folders
+/.m2/
+/lib/
+
+# Logs and runtime files
+*.log
+/logs/
+
+# Sensitive data
+/web/WEB-INF/database.properties
+*.properties
+*.env
+/src/main/resources/*-config.properties
